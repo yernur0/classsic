@@ -32,4 +32,4 @@ async def check(ctx):
     else:
         await ctx.send("В сообщении отсутствуют вложения с изображениями.")    
 
-bot.run("MTEwOTM4MjcwMTMzMDQ4NTMyOA.GWvX8l.RKOeaMipb5cMC3RpgR-AoNw8yjDk4apTS49III")
+bot.run("token")
